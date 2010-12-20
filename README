@@ -1,0 +1,11 @@
+<h1>Welcome to Dunk!</h1>
+<h2>A Ruby wrapper for the Dribbble API.</h1>
+
+<h3>Why did I write this?</h3>
+<p>Well in my ongoing effort to become a better programmer, I am going to attempt to start and finish a new project every 2 weeks.</p>
+
+<h3>When will this be finished?</h3>
+<p>Since I wasn't planning on starting this until the beginning of 2011, I'm not sure yet. My goal is to try and have this done as quickly as possible so I can come up with my next project.</p>
+
+
+<p>Copyright 2010 <a href="http://davefearon.com" target="_blank">Dave Fearon</a></p>
