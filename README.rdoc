@@ -1,6 +1,6 @@
-= dunk
+= Dunk
 
-Description goes here.
+A Ruby wrapper for the Dribbble API.
 
 == Contributing to dunk
  
@@ -16,4 +16,4 @@ Description goes here.
 
 Copyright (c) 2010 Dave Fearon. See LICENSE.txt for
 further details.
-
+http://davefearon.com
